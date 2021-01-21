@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Justine Chia 
----
 
 Justine Chia is a Data Scientist at Austin Capital Data. She received her PhD from the University of California, Berkeley, where she studied neurons that are involved in taste processing and memory formation in fruit flies.
 
