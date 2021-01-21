@@ -3,14 +3,8 @@ layout: post
 title: Introduction
 ---
 
-Justine Chia
+*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
 
-Data Scientist
-Justine Chia is a Data Scientist at Austin Capital Data. She received her PhD from the University of California, Berkeley, where she studied neurons that are involved in taste processing and memory formation in fruit flies.
-
-As a data scientist, she is excited to leverage her expertise in the life sciences to inform heath-related research directions. She is also passionate about making science and data accessible to the general public.
-
-When not working on science, you can find her exploring trails in the backcountry, making mac n cheese, or building LED art projects.
 -----
 
 Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
