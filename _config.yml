@@ -1,5 +1,9 @@
 # Setup
+<<<<<<< HEAD
 title: Justine Chia 
+=======
+title: Dark Poole
+>>>>>>> f5eb1488bb09b21a5c6bee8159e2992ee227bb26
 url: https://mayraaleli85.github.io/dark-poole
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
