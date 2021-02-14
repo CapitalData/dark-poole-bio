@@ -42,8 +42,7 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
+  - title: Site
+    url: https://capitaldata.github.io
+    
 
-  - title: About
-    url: /about
