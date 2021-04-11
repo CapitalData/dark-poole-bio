@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Justine Chia 
+title: Justine Chia, Ph.D.
 ---
 
 Justine Chia received her PhD from the University of California, Berkeley, where she studied neurons that are involved in taste processing and memory formation in fruit flies. At Austin Capital Data she started cocktail graph and worked on projects ranging from cyberthreat intelligence to bioinformatics.  
